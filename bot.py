@@ -11,14 +11,14 @@ produtos = [
     {
         "nome": "Capinha Transparente iPhone 13",
         "preco": "R$ 29,90",
-        "link": "SEU_LINK_AFILIADO_AQUI",
+        "link": "https://shopee.com.br/Capinha-Silicone-Aveludada-Cor-PRETO-BRANCO-Para-IPhone-7G-8G-X-Xsmax-7Plus-XR-11-13-14-15-15Promax-16-16Promax-i.740987884.19599592120?extraParams=%7B%22display_model_id%22%3A209602968951%2C%22model_selection_logic%22%3A3%7D",
         "imagem": "https://linkdaimagem.com"
     },
     {
         "nome": "Capinha Anti Impacto iPhone 14",
         "preco": "R$ 39,90",
-        "link": "SEU_LINK_AFILIADO_AQUI",
-        "imagem": "https://linkdaimagem.com"
+        "link": "https://shopee.com.br/Capinha-Silicone-Aveludada-Cor-PRETO-BRANCO-Para-IPhone-7G-8G-X-Xsmax-7Plus-XR-11-13-14-15-15Promax-16-16Promax-i.740987884.19599592120?extraParams=%7B%22display_model_id%22%3A209602968951%2C%22model_selection_logic%22%3A3%7D",
+        "imagem": "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m5c7ur37izbk98@resize_w450_nl.webp"
     }
 ]
 
