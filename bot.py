@@ -37,4 +37,4 @@ while True:
 
     bot.send_photo(chat_id=CHAT_ID, photo=produto['imagem'], caption=mensagem)
     
-    time.sleep(1800)  # envia a cada 30 minutos
+    time.sleep(10)  # envia a cada 30 minutos
